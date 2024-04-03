@@ -2,3 +2,4 @@
 __pycache__
 userfolder
 .DS_Store
+/venv/
